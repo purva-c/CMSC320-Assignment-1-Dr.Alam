@@ -1,0 +1,4 @@
+Q1: Why might be consider using git?
+
+Answer: Git makes it easy to collaborate with others with its unique branching and merging capabilities. It is also secure and uses vesion control. 
+
