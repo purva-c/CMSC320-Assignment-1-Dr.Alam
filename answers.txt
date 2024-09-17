@@ -8,3 +8,8 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: Data Science is a broad field that can be applied to many other fields. One such field is the healthcare industry. Data Science can be used to analyze patient data for diseases, records, outbreaks, and trends to help the population get healthier overall. 
 
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging preserves the entire history of your repository, while rebasing preserves a linear history by moving the branch onto the tip of main. 
+
