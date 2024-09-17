@@ -1,4 +1,10 @@
+
 Q1: Why might be consider using git?
 
 Answer: Git makes it easy to collaborate with others with its unique branching and merging capabilities. It is also secure and uses vesion control. 
+
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data Science is a broad field that can be applied to many other fields. One such field is the healthcare industry. Data Science can be used to analyze patient data for diseases, records, outbreaks, and trends to help the population get healthier overall. 
 
